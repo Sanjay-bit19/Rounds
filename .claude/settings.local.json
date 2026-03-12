@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install express mongoose bcryptjs jsonwebtoken nodemailer razorpay cors dotenv express-validator)",
+      "Bash(npm install -D nodemon)",
+      "Bash(npm create vite@latest . -- --template react)",
+      "Bash(npm install)",
+      "Bash(npm install -D tailwindcss @tailwindcss/vite)",
+      "Bash(npm install react-router-dom axios leaflet react-leaflet react-hot-toast lucide-react)",
+      "Bash(npm install recharts)",
+      "Bash(npm run build)"
+    ]
+  }
+}
